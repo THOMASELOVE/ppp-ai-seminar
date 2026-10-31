@@ -3,7 +3,7 @@
 This repository maintains information related to the seminar I gave on 2026-10-30 at the [Population Health Research Institute](https://www.metrohealth.org/en/research/population-health-research-institute/) at The MetroHealth System, in Cleveland, Ohio.
 
 - The slides are available to all (pdf file) at [this link](love_ppp_ai_2026-10-30_delivery.pdf).
-- I expect that a recording of the session will be made available, and if so, I will post it here.
+- A recording of the session [is available here](https://cwru.zoom.us/rec/share/W0L9R6L01FG6FLWdN2rGHSdok_l39hnkpjXmbLc3DH3VO84oqwFz2PPg_u5wT6mH.sdOdnM-Z-_FUcGE2).
 
 If you have questions, ask me at **Thomas dot Love at case dot edu**.
 
